@@ -1,5 +1,4 @@
 • Understand the RPA lifecycle and its importance in automating repetitive tasks.
-• Install the UiPath tool and become familiar with its user interface.
 • Differentiate between the modern and classic experiences in UiPath.
 • Create your first bot using UiPath and install necessary extensions.
 • Utilize the Activities panel to perform various actions and operations in UiPath.
